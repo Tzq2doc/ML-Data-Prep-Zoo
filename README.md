@@ -1,4 +1,4 @@
-# ML-Data-Prep-Zoo
+# ML Data Prep Zoo
 
 A zoo of labelled datasets and ML models for data prep tasks.
 
