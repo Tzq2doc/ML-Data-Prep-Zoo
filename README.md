@@ -6,7 +6,7 @@ A zoo of labelled datasets and ML models for data prep tasks.
 
 ### Leaderboard
 
-By submitting results, you acknowledge that your results are obtained purely by training on the training split and tuned on the validation split.
+By submitting results, you acknowledge that your holdout test results are obtained purely by training on the training set.
 
 | Model               | Overall Accuracy |
 |---------------------|------------------|
