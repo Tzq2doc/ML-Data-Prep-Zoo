@@ -1,6 +1,6 @@
 # Task: ML Schema Inference
 
-<img src="https://github.com/pvn25/ML-Data-Prep-Zoo/tree/master/ML%20Schema%20Inference/images/example_workflow.png" width=200 />
+![workflow](images/example_workflow.png)
 
 ## Leaderboard
 
