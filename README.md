@@ -6,7 +6,7 @@ A zoo of labelled datasets and ML models for data prep tasks.
 
 ### Leaderboard
 
-By submitting results, you acknowledge that your holdout test results are obtained purely by training on the training set.
+By submitting results, you acknowledge that your holdout test results([X_test.csv,y_test.csv]) are obtained purely by training on the training set([X_train.csv,y_train.csv]).
 
 |        Model        | Overall Accuracy | Usable Numeric Accuracy | Usable-with-Extraction  Accuracy | Usable-Categorical Accuracy | Unusable Accuracy | Context-Specific Accuracy |
 |:-------------------:|:----------------:|:-----------------------:|:--------------------------------:|:---------------------------:|:-----------------:|:-------------------------:|
