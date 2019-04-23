@@ -1,10 +1,8 @@
-# ML Data Prep Zoo
+# Task: ML Schema Inference
 
-A zoo of labelled datasets and ML models for data prep tasks.
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-## Task: ML Schema Inference
-
-### Leaderboard
+## Leaderboard
 
 By submitting results, you acknowledge that your holdout test results are obtained purely by training on the training set.
 
