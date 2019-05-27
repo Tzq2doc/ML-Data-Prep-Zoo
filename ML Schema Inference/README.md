@@ -1,11 +1,12 @@
 # Task: ML Schema Inference
 
+This [project](https://adalabucsd.github.io/sortinghat.html) is about inferring ML feature types from the raw CSV files. 
+
 ![workflow](images/example_workflow.png)
 
-A complete paper is available at our project [webpage](https://adalabucsd.github.io/sortinghat.html)
-
 Data/ contain the raw CSV data sources and the base featurized file.
-Models/ contain the source code of the models such as Random Forest, RBF-SVM, k-NN, Neural Model
+Models/ contain the source code of the models such as Random Forest, RBF-SVM, k-NN, Neural Model and Logistic Regression.
+Pre-trained Models/ contain the trained ML models ready for inference.
 
 ## Leaderboard
 
