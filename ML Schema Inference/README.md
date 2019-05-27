@@ -2,6 +2,11 @@
 
 ![workflow](images/example_workflow.png)
 
+A complete paper is available at our project ![webpage] (https://adalabucsd.github.io/sortinghat.html)
+
+Data/ contain the raw CSV data sources and the base featurized file.
+Models/ contain the source code of the models such as Random Forest, RBF-SVM, k-NN, Neural Model
+
 ## Leaderboard
 
 By submitting results, you acknowledge that your holdout test results([X_test.csv,y_test.csv]) are obtained purely by training on the training set([X_train.csv,y_train.csv]).
