@@ -4,9 +4,11 @@ This [project](https://adalabucsd.github.io/sortinghat.html) is about inferring 
 
 ![workflow](images/example_workflow.png)
 
-Data/ contain the raw CSV data sources and the base featurized file.
+Data/ contain the raw 360 data files and also the base featurized file.
 Models/ contain the source code of the models such as Random Forest, RBF-SVM, k-NN, Neural Model and Logistic Regression.
 Pre-trained Models/ contain the trained ML models ready for inference.
+
+we invite researchers and practitioners to use our datasets and contribute to create better featurizations and models.
 
 ## Leaderboard
 
