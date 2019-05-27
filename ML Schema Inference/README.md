@@ -2,7 +2,7 @@
 
 ![workflow](images/example_workflow.png)
 
-A complete paper is available at our project ![webpage] (https://adalabucsd.github.io/sortinghat.html)
+A complete paper is available at our project [webpage] (https://adalabucsd.github.io/sortinghat.html)
 
 Data/ contain the raw CSV data sources and the base featurized file.
 Models/ contain the source code of the models such as Random Forest, RBF-SVM, k-NN, Neural Model
