@@ -8,7 +8,7 @@ Data/ contains the base featurized file. The raw 360 data files is avaialble her
 Models/ contain the source code of the models such as Random Forest, RBF-SVM, k-NN, Neural Model and Logistic Regression.
 Pre-trained Models/ contain the trained ML models ready for inference.
 
-we invite researchers and practitioners to use our datasets and contribute to create better featurizations and models.
+We invite researchers and practitioners to use our datasets and contribute to create better featurizations and models.
 
 ## Leaderboard
 
