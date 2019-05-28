@@ -1,6 +1,6 @@
 # Task: ML Schema Inference
 
-This [project](https://adalabucsd.github.io/sortinghat.html) is about inferring ML feature types from the raw CSV files. 
+This [project](https://adalabucsd.github.io/sortinghat.html) is about inferring ML feature types from the raw CSV files. The workflow is decribed below.
 
 ![workflow](images/example_workflow.png)
 
